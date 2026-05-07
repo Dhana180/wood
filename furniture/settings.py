@@ -30,7 +30,7 @@ DEBUG = os.getenv('DEBUG') == 'True'
 
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['furnitureservice.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 
 
